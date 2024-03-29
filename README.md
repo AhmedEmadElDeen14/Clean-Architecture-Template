@@ -30,6 +30,13 @@ The project is organized into the following directories:
   - **models/**: Data models specific to the login feature.
   - **repositories/**: Repositories responsible for data operations.
   - **domain/**: Domain layer containing business logic and use cases related to login.
+ 
+## Plugins Used
+
+This project utilizes the following plugins:
+
+- **bloc**: A predictable state management library that helps you implement the BLoC (Business Logic Component) design pattern in your Flutter applications.
+- **Clean Architecture for Flutter**: This plugin provides utilities and code generation tools to help you implement Clean Architecture in your Flutter projects seamlessly.
 
 ## Getting Started
 
