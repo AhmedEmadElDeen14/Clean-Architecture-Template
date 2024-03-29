@@ -4,7 +4,7 @@ This repository provides a basic structure for implementing Clean Architecture i
 
 ## Architecture Overview
 
-![Clean Architecture](Clean-Architecture-Template/assets/images/Clean Architecture.png)
+![Clean Architecture](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 *Image by Reso Coder*
 
 ## Project Structure
