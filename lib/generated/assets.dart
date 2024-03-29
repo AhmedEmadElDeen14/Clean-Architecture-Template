@@ -2,6 +2,5 @@
 class Assets {
   Assets._();
 
-  static const String imagesClean Architecture = 'assets/images/Clean Architecture.png';
 
 }
