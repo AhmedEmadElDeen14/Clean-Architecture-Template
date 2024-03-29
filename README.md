@@ -46,3 +46,7 @@ To get started with this template, follow these steps:
 2. Open the project in your preferred Flutter IDE.
 3. Explore the directory structure to understand how the Clean Architecture is implemented.
 4. Build upon this structure to add new features or extend existing ones.
+
+## Contributing
+
+Contributions to this project are welcome. If you have ideas for improvements, feature requests, or bug reports, please open an issue or submit a pull request.
